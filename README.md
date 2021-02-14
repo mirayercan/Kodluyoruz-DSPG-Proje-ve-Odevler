@@ -1,1 +1,1 @@
-This repository about homework in Kodluyoruz Data Science for Public Good Bootcamp.
+This repository about homework for Kodluyoruz Data Science for Public Good Bootcamp.
